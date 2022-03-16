@@ -1,2 +1,2 @@
 # DivAlgorithm
-RSA Algorithm from rudimentary elements.
+RSA Algorithm using rudimentary elements.
